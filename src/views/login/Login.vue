@@ -84,7 +84,7 @@ export default {
       showRegistering: false,
       showNotSendTwitter: false,
       connecting: false,
-      authStep: 'select',
+      authStep: 'login',
       generatingKeys: false,
       showPrivateKey: false,
       ethAddress: '',
